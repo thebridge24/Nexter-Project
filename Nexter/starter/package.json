@@ -1,0 +1,22 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "the nexter app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thebridge24/Nexter-Project.git"
+  },
+  "author": "Alexander The Bridge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thebridge24/Nexter-Project/issues"
+  },
+  "homepage": "https://github.com/thebridge24/Nexter-Project#readme",
+  "devDependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
