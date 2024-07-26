@@ -14,3 +14,31 @@ body {
   color: #6D5D4B;
   font-weight: 300;
   line-height: 1.6; }
+
+.container {
+  display: grid;
+  grid-template-rows: 80vh min-content 40vw repeat(3, min-content); }
+
+.sidebar {
+  background-color: #c69963; }
+
+.header {
+  background-color: #aaa; }
+
+.realtors {
+  background-color: #54483A; }
+
+.features {
+  background-color: #c69963; }
+
+.story__pictures {
+  background-color: #B28451; }
+
+.homes {
+  background-color: #101d2c; }
+
+.gallery {
+  background-color: #B28451; }
+
+.footer {
+  background-color: #c69963; }
